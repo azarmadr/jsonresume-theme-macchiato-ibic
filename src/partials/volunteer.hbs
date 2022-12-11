@@ -1,8 +1,10 @@
 {{#if resume.volunteer.length}}
 <div class="container volunteer-container">
-    {{> title value="Volunteer"}}
+    {{> title value="Extra-Curricular Activites"}}
 
+    <ul style="list-style-type: none; margin: 0; padding: 0;" class="two-column">
     {{#each resume.volunteer}}
+    <li>
     <section class="item">
         {{> section-header name=this.organization showWebsite=true}}
         {{#if position}}
@@ -21,6 +23,8 @@
         </ul>
         {{/if}}
     </section>
+    </li>
     {{/each}}
+    </ul>
 </div>
 {{/if}}

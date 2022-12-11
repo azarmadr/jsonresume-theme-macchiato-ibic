@@ -1,144 +1,229 @@
+
 {
-  "basics": {
-    "name": "Richard Hendriks",
-    "label": "Programmer",
-    "picture": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette4.wikia.nocookie.net%2Fsilicon-valley%2Fimages%2F3%2F33%2FRichard_Hendricks.jpg%2Frevision%2Flatest%3Fcb%3D20150526104602&f=1&nofb=1",
-    "email": "richard.hendriks@mail.com",
-    "phone": "(912) 555-4321",
-    "url": "http://richardhendricks.example.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "neutralthoughts",
-        "url": ""
-      },
-      {
-        "network": "GitHub",
-        "username": "neutralthoughts",
-        "url": ""
-      },
-      {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
-      }
-    ]
-  },
-  "work": [
+  "awards": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
+      "awarder": "MHRD",
+      "date": "2017-07-01",
+      "summary": "Final year of Dual Degree Program",
+      "title": "Assistantship"
+    },
+    {
+      "title": "AIR 1891",
+      "awarder": "IIT-JEE",
+      "date": 2012
+    },
+    {
+      "title": "State Rank 327",
+      "awarder": "EAMCET",
+      "date": 2012
     }
   ],
   "volunteer": [
     {
-      "flavor": "Coding",
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": ["Awarded 'Teacher of the Month'"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "Javascript"]
+      "organization": "NCC",
+      "position": "Cadet",
+      "summary": "Obtained B-Certificate for participating in summer camp",
+      "startDate": "2013-12-01",
+      "endDate": "2014-02-01",
+      "title": "NCC"
     },
     {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": ["Mpeg", "MP4", "GIF"]
+      "organization": "Himalayan Explorers’ Club",
+      "summary": "Participated in Bhadraj Trekking, Uttarakhand",
+      "startDate": "2014-12-01",
+      "endDate": "2015-02-01",
+      "title": "Trekking"
     }
   ],
-  "languages": [
+  "basics": {
+    "date_of_birth": "05/09/1994",
+    "phone": "+918074177483",
+    "email": "azarmadr@pm.me",
+    "label": "Design Verification Engineer",
+    "location": {
+      "address": "Ram Murty Nagar",
+      "city": "Banglore",
+      "countryCode": "IN",
+      "region": "Karnataka"
+    },
+    "name": "Shaik Azhar Madar",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/shaik-azhar-9489b854/",
+        "username": "shaik-azhar"
+      },
+      {
+        "network": "Hive",
+        "url": "https://ecency.com/@azarmadr3",
+        "username": "azarmadr3"
+      }
+    ]
+  },
+  "education": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "area": "VLSI Front-End",
+      "courses": [
+        "UVC for AHB 2.0 - UVM",
+        "Memory controller - SystemVerilog",
+        "AXI 3.0 VIP - SystemVerilog",
+        "Asynchronous FIFO design  - Verilog"
+      ],
+      "startDate": "March-2019",
+      "endDate": "December-2019",
+      "institution": "VLSIGuru, Banglore",
+      "summary": "Completed RTL design and Functional Verification Training",
+      "studyType": "Training"
+    },
+    {
+      "area": "Electrical and Power Electronic Engineering",
+      "courses": [
+        "Digital Electronics",
+        "Signals and Systems",
+        "Performance Analysis of Multi-Pulse Converter - Dissertation"
+      ],
+      "endDate": "2017-06-01",
+      "gpa": "64.91%",
+      "institution": "IIT Roorkee",
+      "startDate": "2012-06-01",
+      "studyType": "Dual Degree – B. Tech (Electrical) & M. Tech (Power Electronics)"
+    },
+    {
+      "area": "M.P.C.",
+      "institution": "Sri Chaitanya Jr. College",
+      "gpa": "96%",
+      "startDate": "2010-06-01",
+      "endDate": "2012-06-01",
+      "studyType": "Intermediate Education"
+    },
+    {
+      "area": "SSC",
+      "institution": "St. Joseph's EM High School",
+      "gpa": "94.33%",
+      "startDate": "2009-06-01",
+      "endDate": "2010-06-01",
+      "studyType": "Secondary Education"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "name": "Gaming",
+      "keywords": [
+        "RPG",
+        "Puzzles"
+      ]
+    },
+    {
+      "name": "Books",
+      "keywords": [
+        "Mystery",
+        "Sci-Fi",
+        "Non-Fictional"
+      ]
     }
   ],
-  "references": [
+  "skills": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "keywords": [
+        "Verilog",
+        "SystemVerilog"
+      ],
+      "level": "⚫⚫⚫⚫⚫⚪⚪",
+      "name": "HDL & Verification Languages"
+    },
+    {
+      "name": "Verification Methodologies",
+      "level": "⚫⚫⚫⚫⚪⚪⚪",
+      "keywords": [
+        "UVM",
+        "SystemC & Verilator"
+      ]
+    },
+    {
+      "name": "Scripting",
+      "level": "⚫⚫⚫⚫⚫⚪⚪",
+      "keywords": [
+        "perl",
+        "Unix",
+        "VCS"
+      ]
+    },
+    {
+      "name": "Functional Languages",
+      "level": "⚫⚫⚫⚫⚪⚪⚪",
+      "keywords": [
+        "Rust",
+        "Python",
+        "Raku",
+        "JavaScript"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Juntran Technologies",
+      "position": "Design Verification Engineer",
+      "startDate": "2019-07-05",
+      "summary": "Worked on diverse VLSI projects"
     }
   ],
   "projects": [
     {
-      "title": "Miss Direction",
-      "summary": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      "startDate": "December-2020",
+      "name": "DDR5/LPDDR5X multiPHY IP",
+      "roles": [
+        "GLS",
+        "Coverage Development",
+        "HW Emulations"
       ],
-      "keywords": ["GoogleMaps", "Chrome Extension", "Javascript"],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
-      "roles": ["Team lead", "Designer"],
-      "entity": "Smoogle",
-      "type": "application"
+      "description": "The combophy interface is an interface protocol required to transfer command and data across the DFI and between MC & PHY. It applies to LPDDR5 & DDR5 Phy.",
+      "highlights": [
+        "Enable class A and class B coverage for both D5 and LP5",
+        "Enable HW EMUL builds for ComboPhy for both D5 and LP5",
+        "GLS simulations for D5 and LP5"
+      ],
+      "keywords": [
+        "DDR5",
+        "GLS",
+        "UVM",
+        "Emulation",
+        "Testbench Scripting"
+      ]
+    },
+    {
+      "startDate": "May-2020",
+      "endDate": "August-2020",
+      "name": "Verification of DCT & IDCT Compression Modules",
+      "roles": [
+        "Testbench development",
+        "RTL design convertion"
+      ],
+      "description": "Functional verification of Design consists of DCT(Digital Cosine Transform) module to compress a stream of quantized values of a video. DCT compression, being a lossy one, is used to compress images, videos etc.,",
+      "highlights": [
+        "Used Verilator package to convert RTL design to usable systemc module",
+        "Used OpenCV Python module to decode & encode images",
+        "Developed SystemC test-bench from the scratch with driver, monitor, reference model, etc. to verify"
+      ],
+      "keywords": [
+        "systemc",
+        "python",
+        "verilator",
+        "OpenCV"
+      ]
+    },
+    {
+      "startDate": "January-2020",
+      "endDate": "April-2020",
+      "name": "SDR/DDR SDRAM Controller",
+      "description": "The  sdr/ddr sdram controller is a single  controller for single data rate and double  data rate sdrams.It supports load_mr, auto_referesh, precharge, act_row, reada, writea, burst_stop and  nop commands.It can be programmed for burst lengths of 2,4 and 8.",
+      "highlights": [
+        "Generating UVM testcases for different mode register settings and verifying SDRAM Controller by writing and reading from a memory."
+      ],
+      "keywords": [
+        "UVM",
+        "DDR",
+        "SDRAM Controller"
+      ]
     }
-  ],
-  "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
-  }
+  ]
 }

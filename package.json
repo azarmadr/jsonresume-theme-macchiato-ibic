@@ -26,16 +26,16 @@
     "handlebars": "^4.7.2",
     "handlebars-wax": "^6.1.0",
     "moment": "^2.24.0",
-    "swag": "^0.7.0"
+    "swag": "^0.6.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "~8.2.0",
+    "@commitlint/cli": "^16.3.0",
     "@commitlint/config-conventional": "~8.2.0",
     "eslint": "^6.5.1",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
     "husky": "~3.0.9",
-    "jest": "^24.9.0",
+    "jest": "^28.1.0",
     "jest-handlebars": "^1.0.1",
     "jest-image-snapshot": "^2.11.0",
     "prettier": "^1.18.2",

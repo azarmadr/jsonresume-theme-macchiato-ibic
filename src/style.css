@@ -67,7 +67,7 @@ body {
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-weight: 400;
   background: white;
-  margin: 50px 0 100px;
+  /*margin: 50px 0 100px;*/
   letter-spacing: .3px;
   color: #39424B;
 }
@@ -149,7 +149,7 @@ a .fa-external-link {
 
 p,
 li {
-  font-size: 11px;
+  font-size: 10px;
 }
 
 blockquote {
@@ -165,8 +165,7 @@ em {
 }
 
 ul {
-  margin: 10px 0 0;
-  -webkit-padding-start: 25px;
+  margin: 5px 0 0;
 }
 
 ul li {
@@ -199,12 +198,12 @@ ul.two-column li {
 }
 
 .container {
-  padding-top: 20px;
+  padding-top: 5px;
 }
 
 .keyline {
   width: 45px;
-  margin: 8px 0 10px;
+  margin: 4px 0 8px;
   border-top: 1px solid #56817A;
 }
 
@@ -268,7 +267,7 @@ ul.two-column li {
 
 .left-column {
   float: left;
-  width: 160px;
+  width: 222px;
   margin-right: 20px;
   word-wrap: break-word;
 }
@@ -279,7 +278,7 @@ ul.two-column li {
 }
 
 .item {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .item:last-child {
@@ -381,7 +380,7 @@ ul.two-column li {
 }
 
 .main-skill {
-  font-size: 80%;
+  font-size: 70%;
 }
 
 .skill {
